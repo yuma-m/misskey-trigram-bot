@@ -1,7 +1,7 @@
 import asyncio
 import os
 
-from bot.misskey_bot import MisskeyBot
+from bot import MisskeyBot
 
 
 def main():
